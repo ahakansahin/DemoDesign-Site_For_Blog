@@ -1,4 +1,4 @@
-# [News Website](https://siteforblog.netlify.app/)
+# [Blog Website](https://siteforblog.netlify.app/)
 - This site is designed to provide sample template for customers.
 - The codes of this site are written with html and bootstrap. The project includes Font Awesome, Google Fonts libraries.
 - The codes belong to me and are free to use.
